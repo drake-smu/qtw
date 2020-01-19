@@ -1,0 +1,3 @@
+[submodule "case-studies"]
+	path = case-studies
+	url = git@github.com-drake_smu:Landcruiser87/7333_QTW.git
